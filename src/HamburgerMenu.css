@@ -1,0 +1,18 @@
+.hamburgerMenu {
+    background-color: #282c34;
+    max-width: 25vw;
+    min-width: 200px;
+    height: 100%;
+    position: absolute; 
+    right: 0; 
+    padding: 1em; 
+    text-align: left; 
+}
+
+.menuItem {
+    width: 100%; 
+    border-bottom: 2px solid white; 
+    padding: 5px;
+    padding-left: 0px; 
+    color: white; 
+}
